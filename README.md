@@ -81,14 +81,13 @@ To create a 3D model from given orthographic projection.
 
 ## INPUT:
 
-<img width="810" height="567" alt="image" src="https://github.com/user-attachments/assets/b1d1f0cd-d35b-4354-bc0e-2c5762edb3ec" />
-
+<img width="726" height="517" alt="image" src="https://github.com/user-attachments/assets/46f25171-d9a5-4f82-89fd-0ac522a6da5a" />
 
 ## OUTPUT:
 
 <img width="1525" height="717" alt="Screenshot 2026-11-02 114452" src="https://github.com/user-attachments/assets/e3261c3a-5408-40bd-b1d9-307b87984949" />
 
-<img width="810" height="567" alt="image" src="https://github.com/user-attachments/assets/dcde2691-3dcc-4dbe-ad58-c0c4dd27bc73" />
+<img width="726" height="517" alt="image" src="https://github.com/user-attachments/assets/b70feaaa-5571-45f8-a8c8-c156cfa6a87b" />
 
 
 ## RESULT:
